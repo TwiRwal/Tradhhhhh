@@ -1,3 +1,42 @@
+--[[
+trashtrashtrashtrashtrashtrashtrashtrashtrashtrashtrashtrashtrashtrashtrashtrash
+]]--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -253,7 +292,7 @@ print("0?5")
 -- Obfuscated By Werenobf.lua | Created By TwiRwal
 
 Wait(1.2) -- WAIT
-local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/TwiRwal/TwiWare/main/uilib.txt"))()
 
 --// fractions 
 local OldNameCall = nil
